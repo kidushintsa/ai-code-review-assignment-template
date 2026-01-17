@@ -1,14 +1,3 @@
-# Notes (Optional)
+# In task1.py implementation, order["amount"] is assumed to already be numeric (int or float),
 
-This file is optional.
-
-Use it only if you want to provide **additional context** for the reviewer that does not fit cleanly in `submission_template.md`.
-
-Examples of appropriate use:
-- Assumptions you made
-- Known limitations of your solution
-- Alternative approaches you considered but did not implement
-
-Do not repeat information already included in `submission_template.md`.
-
-Remove the contents of this file and write your notes.
+# so i didn't cast it to float. This keeps the code simple while correctly calculating the average.
