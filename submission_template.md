@@ -292,7 +292,7 @@ If you were to test this function, what areas or scenarios would you focus on, a
 
 ## 4) Final Judgment
 
-- Decision: Approve / Request Changes / Reject
+- Decision: Request Changes
 
 - Justification: Fixed version safely handles None, invalid types, and empty lists while computing the correct average
 
