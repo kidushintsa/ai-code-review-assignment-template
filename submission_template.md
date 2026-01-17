@@ -3,7 +3,7 @@
 ## Candidate
 
 - Name: Kidus Hintsa Nega
-- Approximate time spent:
+- Approximate time spent: 105 min
 
 ---
 
